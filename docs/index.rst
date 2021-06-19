@@ -5,10 +5,6 @@
 
 사용자의 개입이 필요한 부분 자동화를 최종 목표로 하고 있습니다.
 
-`라오어 무한매수법 <https://cafe.naver.com/infinitebuying>`_
-
-`포텐의 아바타법 <https://cafe.naver.com/brownxfq8x>`_
-
 목차
 ^^^^^^^^^^^^^^^^^^^^^
 
