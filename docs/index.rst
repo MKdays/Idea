@@ -7,9 +7,9 @@
 iLabAuto는 미국주식자동화를 지원합니다.
 
 .. toctree::
-   :maxdepth: 1
+   :hidden:
    
-   환영합니다!! <self>
+   소개 <self>
 
 .. toctree::
    :maxdepth: 1
