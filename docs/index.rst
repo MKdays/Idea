@@ -17,10 +17,6 @@
    :hidden:
    
    1. 프로그램소개 <self>
-
-.. toctree::
-   :maxdepth: 1
-   
    /screen1
    /screen2
    /screen3
