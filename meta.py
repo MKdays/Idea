@@ -1,7 +1,6 @@
 #설정
 save_file = "meta.ini" #설정
 target = "Lotto" #설정
-# git_api = "https://raw.githubusercontent.com/MKdays/Idea/main"
 
 #작업경로 설정
 import sys, os
@@ -22,7 +21,6 @@ e = 0
 for i in file_list:
     if os.path.isfile(i): #폴더는제외 파일만
         rel_path = os.path.dirname(os.path.relpath(i)) #상대경로
-        # print(i)
         
         a = rel_path[len(target):] #현재경로는 삭제하고
         b = os.path.basename(i) #상대경로
@@ -40,3 +38,6 @@ for i in file_list:
 configFile = open(save_file, "w", encoding="utf-8")
 config.write(configFile) 
 configFile.close()
+
+print("완료!")
+input()
