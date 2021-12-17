@@ -1,0 +1,62 @@
+All LICENSE documents are located in the LICENSE folder.
+
+| ANGLE
+	https://github.com/google/angle
+
+| libfreetype
+	www.freetype.org
+	FTL License
+
+| Kivy
+	https://kivy.org
+	MIT License
+
+| KivyMD
+	https://github.com/kivymd/KivyMD
+	MIT License
+	
+| KivyMD Extensions / Awesome KivyMD
+	https://github.com/kivymd-extensions/akivymd
+	MIT License
+
+| libffi
+	https://github.com/libffi/libffi
+
+| libpng
+	http://www.libpng.org/pub/png/libpng.html
+	
+| OpenSSL
+	https://www.openssl.org
+	https://github.com/openssl/openssl
+	Apache License 2.0
+
+| PIL
+	https://github.com/python-pillow/Pillow
+	HPND License
+		
+| Python
+	https://www.python.org
+	Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Python Software Foundation; All Rights Reserved
+	PSF-2.0 License	
+
+| pywin32
+	https://github.com/mhammond
+	PSF-2.0 License
+
+| pywinauto
+	https://github.com/pywinauto/pywinauto
+	BSD 3-clause license
+	
+| SDL2
+	https://www.libsdl.org
+	zlib License
+
+| SDL2_image
+	https://github.com/libsdl-org/SDL_image
+	zlib License
+
+| SDL2_ttf
+	https://github.com/libsdl-org/SDL_ttf
+
+| zlib
+	http://www.zlib.net
