@@ -40,4 +40,3 @@ config.write(configFile)
 configFile.close()
 
 print("완료!")
-input()
