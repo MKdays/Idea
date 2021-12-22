@@ -8,7 +8,7 @@ app_path = os.path.join(os.path.dirname(sys.argv[0])) #현재 위치 확인
 os.chdir(app_path)
 
 #초기화
-if os.path.isfile(save_file): os.remove(save_file) #기존 파일 존재하면 삭제
+if os.path.isfile(save_file): raise("기존파일 있음")
 
 #ini파일 저장 관련
 import configparser
